@@ -210,3 +210,14 @@ http://localhost:8080
 
 🌐 Visit my web development studio / Marketing Agency — [TheVB24.com](https://www.thevb24.com)
 
+
+
+## Development
+
+Developed by [TheBenzzCreations](https://www.thebenzzcreations.com/).
+
+TheBenzzCreations builds custom websites, mobile applications, business software, e-commerce platforms and AI automation solutions.
+
+For development enquiries, visit our official website.
+
+This repository contains the DuskyHospital Spring Boot REST API. It does not contain HTML pages or view templates, so website SEO metadata, structured data and visible footer credits belong in a web frontend. The original author and TheVB24 studio credits above are preserved.
